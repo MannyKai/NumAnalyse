@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.kimguo.numanalyse.MainActivity">
+    <item
+        android:id="@+id/action_clear"
+        android:title="@string/action_clear"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_do"
+        android:title="@string/action_do"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">数字统计</string>
+    <string name="action_do">统计</string>
+    <string name="action_clear">清空</string>
+    <string name="title_activity_analyse">统计结果</string>
+
+    <string name="text_input_title">输入数字</string>
+    <string name="text_input_message">添加一组数据</string>
+    <string name="text_input_error_message">最少一个数字，最多7个数字</string>
+</resources>
